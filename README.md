@@ -1,14 +1,12 @@
 # CardGame
-Collaborators: Upma Sharma, Duncan Levings, Jayce Merinchuk
+Collaborators: Duncan Levings
 
 UWP CardGame
-The first zipped file is a tentative version of the Card Game. Up to this point, the cards are generated at random. Buttons are set up to allow the user to choose the cards. The AI's card is chosen at random as well. 
+Personal version of the assignment contains:
+52 cards
+stored with structs
+more complex game logic
+custom scoring values
+adjustable deck size
 
-Missing: scores, endgame, newgame. 
----------------------------------------------------
-Second Version Uploaded called "Card Game"
-Includes comment blocks.  
-Is in working order but doesn't look pretty.
 
-Missing:  Spruce it up a bit, perhaps better card images, Hide some function when not in use, etc.
----------------------------------------------------
