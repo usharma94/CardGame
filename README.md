@@ -12,3 +12,10 @@ Additional button features to be added.
 
 Missing:  Add functionality to the new buttons created.
 ---------------------------------------------------
+Finished Product: 
+Added End Game, New Game, Game Rule Buttons
+Game Rules
+Updated background layout by adding a graphic image
+Made it as an app for 6inch display
+Scores are allocated correctly
+
